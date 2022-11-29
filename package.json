@@ -14,7 +14,7 @@
       "prettier --write ."
     ]
   },
-  "author": "kolluri Vishnu <vishnu.kolluri02@gmail.com>",
+  "author": "rahman khan <mohd.rahmankhann@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
